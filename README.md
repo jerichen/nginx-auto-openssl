@@ -1,0 +1,2 @@
+# nginx-auto-openssl
+
